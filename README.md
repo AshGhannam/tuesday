@@ -39,6 +39,9 @@ mix run priv/repo/seeds.exs
 We're happy to share this code repository with everyone, even if you haven't purchased the book.  
 If you'd like to dive deeper and understand more about the Ash Framework, you can buy the book [here](https://devcarrots.com/).
 
+## Figma prototype
+Although the app has no UI, we've developed a low-fidelity Figma prototype illustrating Tuesday’s features, which you can view [here](https://www.figma.com/proto/6Glp8UzeFARFJzPS3MykdM/Tuesday-app).
+
 ## License
 
 This project is a labor of love and is released under the MIT License.  
